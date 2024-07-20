@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Payal3214/Payal3214/blob/main/YHi.png)
 <h1 align="center">Hi 👋, I'm Payal Priyadarshini</h1>
 <h3 align="center">A passionate data analyst</h3>
 
