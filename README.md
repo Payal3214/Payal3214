@@ -1,4 +1,4 @@
-![logo](https://github.com/Payal3214/Payal3214/blob/main/business-data-financial-figures-visualiser-graphic_31965-23939.avif)
+![logo]()
 <h1 align="center">Hi 👋, I'm Payal Priyadarshini</h1>
 <h3 align="center">A passionate data analyst from India</h3>
 
