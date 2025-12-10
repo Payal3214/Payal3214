@@ -1,23 +1,49 @@
 ![logo](https://github.com/Payal3214/Payal3214/blob/main/YHi.png)
+
 <h1 align="center">Hi 👋, I'm Payal Priyadarshini</h1>
-<h3 align="center">A passionate data analyst</h3>
+<h3 align="center">AI Engineer | RAG & NLP Developer | Data Analyst</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif">
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=payal3214&label=Profile%20views&color=0e75b6&style=flat" alt="payal3214" /> </p>"
 
-- 🔭 I’m currently working on **my skills.**
-
-- 🌱 I’m currently learning **AWS and Business analytics.**
-
-- 💬 Ask me about **Data analytics, Data mining, Data visualization**
-
-- 📫 How to reach me **payal32140@gmail.com**
-
-- ⚡ Fun fact **No fun fact, only Code.**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/payalpr02098961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="payalpr02098961" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=payal3214&label=Profile%20views&color=0e75b6&style=flat" alt="payal3214" />
+</p>
+
+---
+
+### 🔭 I’m currently working on  
+**Building AI applications using RAG, LLMs & NLP**
+
+### 🌱 I’m currently learning  
+**Advanced Prompt Engineering • Cloud (AWS) for AI • LangChain • Vector Databases**
+
+### 💬 Ask me about  
+**RAG Pipelines • NLP • LLM Fine-tuning • Data Analytics • Data Visualization**
+
+### 📫 How to reach me  
+**payal32140@gmail.com**
+
+### ⚡ Fun fact  
+ My debugging skill improves by 200% after talking to my own AI assistant 🤖
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://twitter.com/payalpr02098961" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+
+<!-- Add more if you want -->
+<a href="https://www.linkedin.com/in/payal-priyadarshini/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+
+<a href="https://github.com/Payal3214" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
+</a>
+</p>
+ alt="payalpr02098961" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/payalpriyadarshini2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="payalpriyadarshini2002" height="30" width="40" /></a>
 <a href="https://kaggle.com/payal709864312345678" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="payal709864312345678" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/payal32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="payal32" height="30" width="40" /></a>
