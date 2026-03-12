@@ -1,5 +1,7 @@
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:6366F1,100:A855F7&height=280&section=header&text=Payal%20Priyadarshini&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=✦%20AI%20Engineer%20%7C%20RAG%20%26%20NLP%20Developer%20%7C%20Data%20Analyst%20✦&descAlignY=60&descSize=18&descColor=E9D5FF" width="100%"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=120&lines=PAYAL+PRIYADARSHINI;AI+ENGINEER+%7C+RAG+%26+NLP+%7C+DATA+ANALYST" alt="Header"/>
+</div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
