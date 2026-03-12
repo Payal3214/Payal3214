@@ -1,6 +1,7 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=120&lines=PAYAL+PRIYADARSHINI;AI+ENGINEER+%7C+RAG+%26+NLP+%7C+DATA+ANALYST" alt="Header"/>
+  <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=55&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&height=120&lines=Payal+Priyadarshini" alt="Payal Priyadarshini"/
 </div>
 
 <!-- TYPING ANIMATION -->
