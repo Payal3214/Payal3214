@@ -3,11 +3,6 @@
 </h1>
 <h3 align="center">✦ AI Engineer | RAG & NLP Developer | Data Analyst ✦</h3>
 <br/>
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=45&lines=🤖+Building+Intelligent+AI+Systems;🔍+RAG+Pipelines+%7C+LLMs+%7C+NLP;📊+Turning+Raw+Data+into+Decisions;🚀+Open+to+AI+%2F+ML+Engineer+Roles;✈️+IndiGo+Crisis+2025+—+Live+Case+Study;🛒+Built+Nykaa+Annual+Report+RAG+Chatbot" alt="Typing SVG"/>
-</div>
-<br/>
 <!-- STATUS BADGES -->
 <div align="center">
   <img src="https://img.shields.io/badge/🟢_Open_to_Work-AI_|_ML_|_NLP-22c55e?style=for-the-badge&labelColor=14532d"/>
