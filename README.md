@@ -1,21 +1,13 @@
-<h1 align="center">Hi 👋 I'm Payal Priyadarshini</h1>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&height=70&lines=Hi+👋+I'm+Payal+Priyadarshini" alt="Payal Priyadarshini"/>
+</h1>
+<h3 align="center">✦ AI Engineer | RAG & NLP Developer | Data Analyst ✦</h3>
+<br/>
+<!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=1E90FF&center=true&vCenter=true&width=700&height=45&lines=🤖+AI+Engineer+%7C+Fresher;🔍+RAG+Pipelines+%7C+LLMs+%7C+NLP;📊+Data+Analyst+%7C+ML+Developer;🚀+Open+to+Work+%7C+Bangalore+🇮🇳" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=45&lines=🤖+Building+Intelligent+AI+Systems;🔍+RAG+Pipelines+%7C+LLMs+%7C+NLP;📊+Turning+Raw+Data+into+Decisions;🚀+Open+to+AI+%2F+ML+Engineer+Roles;✈️+IndiGo+Crisis+2025+—+Live+Case+Study;🛒+Built+Nykaa+Annual+Report+RAG+Chatbot" alt="Typing SVG"/>
 </div>
-
-<h3 align="center">✦ AI Engineer | RAG & NLP Developer | Data Analyst ✦</h3>
-
-<h3 align="center">✦ AI Engineer | RAG & NLP Developer | Data Analyst ✦</h3>
-
-<h3 align="center">✦ AI Engineer | RAG & NLP Developer | Data Analyst ✦</h3>
-
 <br/>
-
-
-
-<br/>
-
 <!-- STATUS BADGES -->
 <div align="center">
   <img src="https://img.shields.io/badge/🟢_Open_to_Work-AI_|_ML_|_NLP-22c55e?style=for-the-badge&labelColor=14532d"/>
@@ -24,12 +16,13 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=payal3214&label=👁+Views&color=A855F7&style=for-the-badge"/>
 </div>
-
 <br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
+
+
+
+
 
 ## 🧠 About Me
 
