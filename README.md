@@ -1,7 +1,7 @@
 <!-- HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&height=80&lines=Hi+👋+I'm+Payal+Priyadarshini;AI+Engineer+%7C+RAG+%26+NLP+Developer;Data+Analyst+%7C+Fresher+🚀" alt="Header"/>
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:6366F1,100:A855F7&height=280&section=header&text=Payal%20Priyadarshini&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=✦%20AI%20Engineer%20%7C%20RAG%20%26%20NLP%20Developer%20%7C%20Data%20Analyst%20✦&descAlignY=60&descSize=18&descColor=E9D5FF" width="100%"/>
+</div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
