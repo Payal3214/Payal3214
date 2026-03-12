@@ -1,13 +1,11 @@
-<!-- ANIMATED HEADER -->
+<!-- HEADER -->
 <div align="center">
-  <div align="center">
- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,50:00BFFF,100:4169E1&height=280&section=header&text=Payal%20Priyadarshini&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=✦%20AI%20Engineer%20%7C%20RAG%20%26%20NLP%20Developer%20%7C%20Data%20Analyst%20✦&descAlignY=60&descSize=18&descColor=E9D5FF&stroke=silver&strokeWidth=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:6366F1,100:A855F7&height=280&section=header&text=Payal%20Priyadarshini&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=✦%20AI%20Engineer%20%7C%20RAG%20%26%20NLP%20Developer%20%7C%20Data%20Analyst%20✦&descAlignY=60&descSize=18&descColor=E9D5FF" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=55&lines=🤖+Building+Intelligent+AI+Systems+...;🔍+RAG+Pipelines+%7C+LLMs+%7C+NLP;📊+Turning+Raw+Data+into+Decisions;🚀+Open+to+AI+%2F+ML+Engineer+Roles;✈️+IndiGo+Crisis+2025+—+Live+Case+Study;🛒+Built+Nykaa+Annual+Report+RAG+Chatbot;💡+Let%27s+build+something+intelligent!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=1E90FF&center=true&vCenter=true&repeat=true&width=700&height=55&lines=🤖+Building+Intelligent+AI+Systems+...;🔍+RAG+Pipelines+%7C+LLMs+%7C+NLP;📊+Turning+Raw+Data+into+Decisions;🚀+Open+to+AI+%2F+ML+Engineer+Roles;✈️+IndiGo+Crisis+2025+—+Live+Case+Study;🛒+Built+Nykaa+Annual+Report+RAG+Chatbot;💡+Let%27s+build+something+intelligent!" alt="Typing SVG"/>
 </div>
 
 <br/>
