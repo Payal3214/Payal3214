@@ -1,32 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a6e,100:0d1117&height=180&section=header&text=Payal%20Priyadarshini&fontSize=42&fontColor=60a5fa&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20%7C%20RAG%20%26%20NLP%20Developer%20%7C%20Data%20Analyst&descSize=15&descAlignY=68&descColor=a78bfa" width="100%"/>
+<img src="https://raw.githubusercontent.com/Payal3214/Payal3214/main/header.svg" width="100%" alt="Payal Priyadarshini"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/🟢_Open_to_Work-AI_|_ML_|_NLP-22c55e?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/📍_Bangalore-India_🇮🇳-3b82f6?style=for-the-badge&labelColor=0d1117"/>
-&nbsp;
 <img src="https://komarev.com/ghpvc/?username=payal3214&label=👁+Views&color=a78bfa&style=for-the-badge&labelColor=0d1117"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=3000&pause=800&color=60A5FA&center=true&vCenter=true&width=600&height=50&lines=Building+AI+apps+with+LangChain+%2B+LLMs+%F0%9F%9A%80;RAG+Pipelines+%7C+NLP+%7C+Vector+DBs+%F0%9F%A7%A0;Turning+data+into+intelligent+systems+%E2%9A%A1;Open+to+AI+%2F+ML+%2F+NLP+roles+%F0%9F%93%AC" alt="Typing SVG"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/RAG_Pipelines-3b82f6?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM_Fine--tuning-a78bfa?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-22c55e?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-ec4899?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-f59e0b?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-38bdf8?style=flat-square&logoColor=white"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 
 
 
