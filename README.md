@@ -1,31 +1,32 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&height=70&lines=Hi+👋+I'm+Payal+Priyadarshini" alt="Payal Priyadarshini"/>
+</h1>
 
-<img src="https://raw.githubusercontent.com/Payal3214/Payal3214/main/header.svg" width="100%" alt="Payal Priyadarshini"/>
+<h3 align="center">✦ AI Engineer | RAG & NLP Developer | Data Analyst ✦</h3>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=payal3214&label=👁+Views&color=a78bfa&style=for-the-badge&labelColor=0d1117"/>
-
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=45&lines=🤖+Building+Intelligent+AI+Systems;🔍+RAG+Pipelines+%7C+LLMs+%7C+NLP;📊+Turning+Raw+Data+into+Decisions;🚀+Open+to+AI+%2F+ML+Engineer+Roles;✈️+IndiGo+Crisis+2025+—+Live+Case+Study;🛒+Built+Nykaa+Annual+Report+RAG+Chatbot" alt="Typing SVG"/>
 </div>
+
+<br/>
+
+<!-- STATUS BADGES -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🟢_Open_to_Work-AI_|_ML_|_NLP-22c55e?style=for-the-badge&labelColor=14532d"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/📍_Bangalore-India_🇮🇳-8B5CF6?style=for-the-badge&labelColor=4c1d95"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=payal3214&label=👁+Views&color=A855F7&style=for-the-badge"/>
+</div>
+
+<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## 🧠 About Me
 
@@ -64,15 +65,19 @@ print(f"Hey! I'm {me.name} — {me.currently}")
 
 ---
 
-## 🐍 Snake Eating My Contributions
+## 🟡 Pac-Man Eating My Contributions
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Payal3214/Payal3214/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Payal3214/Payal3214/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Payal3214/Payal3214/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Payal3214/Payal3214/output/pacman-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Payal3214/Payal3214/output/pacman.svg"/>
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Payal3214/Payal3214/output/pacman-dark.svg" width="100%"/>
   </picture>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -201,3 +206,21 @@ Interactive case study of India's largest aviation disruption — **1.62M strand
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6366F1,100:8B5CF6&height=130&section=footer&text=Let's+Build+Something+Intelligent+Together+🚀&fontSize=17&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
