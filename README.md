@@ -1,18 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&height=70&lines=Hi+👋+I'm+Payal+Priyadarshini" alt="Payal Priyadarshini"/>
-</h1>
-<h3 align="center">✦ AI Engineer | RAG & NLP Developer | Data Analyst ✦</h3>
-<br/>
-<!-- STATUS BADGES -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🟢_Open_to_Work-AI_|_ML_|_NLP-22c55e?style=for-the-badge&labelColor=14532d"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍_Bangalore-India_🇮🇳-8B5CF6?style=for-the-badge&labelColor=4c1d95"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=payal3214&label=👁+Views&color=A855F7&style=for-the-badge"/>
-</div>
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 
 
 
