@@ -67,38 +67,17 @@ print(f"Hey! I'm {me.name} — {me.currently}")
 
 ## 🟡 Pac-Man Eating My Contributions
 
-name: Generate Pac-Man Contribution Graph
- 
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # runs every 12 hours
-  workflow_dispatch:          # lets you trigger it manually too
-  push:
-    branches:
-      - main
- 
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate pacman contribution graph
-        uses: platane/snk@v3
-        with:
-          github_user_name: Payal3214
-          outputs: |
-            dist/pacman.svg
-            dist/pacman-dark.svg?palette=github-dark
- 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
- 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Payal3214/Payal3214/output/pacman-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Payal3214/Payal3214/output/pacman.svg"/>
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Payal3214/Payal3214/output/pacman-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
 
 ## 🚀 Featured Projects
 
@@ -185,6 +164,18 @@ Interactive case study of India's largest aviation disruption — **1.62M strand
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal3214&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" height="175"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=payal3214&theme=tokyonight&hide_border=true&mode=weekly" width="68%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=payal3214&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -215,14 +206,6 @@ Interactive case study of India's largest aviation disruption — **1.62M strand
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6366F1,100:8B5CF6&height=130&section=footer&text=Let's+Build+Something+Intelligent+Together+🚀&fontSize=17&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
-
-
-
-
-
-
-
-
 
 
 
