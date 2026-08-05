@@ -7,75 +7,42 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=7C3AED&lines=Building+AI+Products;RAG+%7C+LLMs+%7C+NLP;Data+Analytics+Enthusiast;Open+to+AI+Engineer+Roles"/>
 </p>
 
-## 👩‍💻 About Me
+## 🧠 About Me
 
-💼 AI Engineer passionate about building production-ready AI systems.
+```python
+class PayalPriyadarshini:
 
-🧠 Interested in
+    def __init__(self):
+        self.name        = "Payal Priyadarshini"
+        self.role        = "AI Engineer 🤖  |  Fresher & Ready to Build"
+        self.location    = "Bangalore, India 🇮🇳"
+        self.email       = "payal32140@gmail.com"
 
-• Retrieval-Augmented Generation (RAG)
+    @property
+    def skills(self):
+        return {
+            "🤖 AI / NLP"  : ["RAG Pipelines", "LLM Fine-tuning", "NLP", "Prompt Engineering"],
+            "🧪 ML"        : ["Scikit-Learn", "TensorFlow", "PyTorch", "HuggingFace"],
+            "📊 Data"      : ["Pandas", "Seaborn", "Plotly", "SQL", "ChromaDB"],
+            "☁️  Cloud"    : ["AWS", "LangChain", "Vector Databases"],
+            "🌐 Web"       : ["Django", "REST APIs"],
+        }
 
-• Large Language Models
+    @property
+    def currently(self):
+        return "Building AI apps with LangChain + LLMs + Vector DBs 🚀"
 
-• NLP
+    @property
+    def fun_fact(self):
+        return "My debugging improves 200% after talking to my own AI assistant 🤖"
 
-• Data Analytics
+me = PayalPriyadarshini()
+print(f"Hey! I'm {me.name} — {me.currently}")
+```
 
-• Machine Learning
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-📍 Bangalore, India
-
-🎯 Currently building AI applications with Python, LangChain, FAISS, Hugging Face, OpenAI APIs, and FastAPI.
-
-## 👩‍💻 About Me
-
-💼 AI Engineer passionate about building production-ready AI systems.
-
-🧠 Interested in
-
-• Retrieval-Augmented Generation (RAG)
-
-• Large Language Models
-
-• NLP
-
-• Data Analytics
-
-• Machine Learning
-
-📍 Bangalore, India
-
-🎯 Currently building AI applications with Python, LangChain, FAISS, Hugging Face, OpenAI APIs, and FastAPI.
-
-## 👩‍💻 About Me
-
-💼 AI Engineer passionate about building production-ready AI systems.
-
-🧠 Interested in
-
-• Retrieval-Augmented Generation (RAG)
-
-• Large Language Models
-
-• NLP
-
-• Data Analytics
-
-• Machine Learning
-
-📍 Bangalore, India
-
-🎯 Currently building AI applications with Python, LangChain, FAISS, Hugging Face, OpenAI APIs, and FastAPI.
-
-🚀 Featured Projects
-
-Use clickable project cards:
-
-Project	Description	Tech
-🛫 IndiGo Crisis AI	AI-powered incident analysis and chatbot	LangChain, FAISS, OpenAI
-💄 Nykaa Annual Report RAG	Query annual reports using natural language	RAG, FAISS, GPT
-📊 Sales Analytics Dashboard	Interactive business insights	Python, Power BI
-🤖 Resume Screening AI	Intelligent candidate ranking	NLP, Transformers
+---
 
 
 🛠 Tech Stack
