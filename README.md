@@ -44,72 +44,107 @@ print(f"Hey! I'm {me.name} — {me.currently}")
 
 ---
 
+## 🚀 Featured Projects
 
-🛠 Tech Stack
-<p align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,vscode"/>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mongodb,mysql"/>
+### 🛒 Nykaa RAG Chatbot
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Payal3214/Nykaa-Annual-Report-RAG-Chatbot)
 
-</p>
+</div>
+
+A **Retrieval-Augmented Generation** system built on Nykaa's Annual Report. Ask any financial question → get intelligent, sourced answers instantly.
+
+**Stack:**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FLAN-T5](https://img.shields.io/badge/FLAN--T5-4285F4?style=flat-square&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### ✈️ IndiGo Crisis 2025
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-e8271a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Payal3214/INDIGO_CRISIS_December_2025)
+[![Live](https://img.shields.io/badge/🔴_Live_Dashboard-FF4500?style=for-the-badge&logoColor=white)](https://payal3214.github.io/INDIGO_CRISIS_December_2025/indigo_crisis_dashboard.html)
+
+</div>
+
+Interactive case study of India's largest aviation disruption — **1.62M stranded**, ₹500Cr revenue loss + an **Early Warning Simulator**.
+
+**Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Revenue ML](https://img.shields.io/badge/Revenue%20ML-orange?style=flat-square)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-red?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🤖 AI · ML · NLP
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+### 📊 Data · Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+### ☁️ Cloud · Tools
+<img src="https://skillicons.dev/icons?i=aws,git,django,vscode&theme=dark"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=payal3214&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="175"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal3214&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" height="175"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=payal3214&theme=tokyonight&hide_border=true&mode=weekly" width="68%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=payal3214&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
 
 
-☁ AI Stack
-
-🧠 OpenAI
-
-🤗 HuggingFace
-
-🔗 LangChain
-
-📚 FAISS
-
-🦜 LangGraph
-
-⚡ FastAPI
-
-🐳 Docker
-
-☁ Azure
 
 
-📊 GitHub Analytics
-<p align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Payal3214&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Payal3214&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-📈 Languages
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payal3214&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-🏆 GitHub Trophies
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=Payal3214&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
-🔥 Contribution Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Payal3214&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 🐍 Pac-Man
 ## 🟡 Pac-Man Eating My Contributions
@@ -123,23 +158,37 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Payal3214&th
 </p>
 
 
-📫 Connect
 
-<p align="center">
+## 📈 Contribution Activity
 
-<a href="mailto:payal32140@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=payal3214&theme=tokyo-night&hide_border=true&area=true&custom_title=Payal's%20Contribution%20Graph" width="100%"/>
+</div>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+---
 
-<a href="https://github.com/Payal3214">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+## 🌐 Connect With Me
 
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/payal-priyadarshini/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/payalpr02098961)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/payal709864312345678)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/payal32)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/payalpriyadarshini068)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:payal32140@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6366F1,100:8B5CF6&height=130&section=footer&text=Let's+Build+Something+Intelligent+Together+🚀&fontSize=17&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 
 
