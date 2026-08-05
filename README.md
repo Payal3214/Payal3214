@@ -1,30 +1,45 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&height=70&lines=Hi,+I'm+Payal+Priyadarshini" alt="Payal Priyadarshini"/>
-</h1>
+<!-- ========================= HEADER ========================= -->
 
-<h3 align="center">✦ AI Engineer | RAG & NLP Developer | Data Analyst ✦</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,25:2563EB,50:7C3AED,75:9333EA,100:EC4899&text=Payal%20Priyadarshini&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20RAG%20Developer%20%7C%20Data%20Analyst&descAlignY=58&animation=fadeIn"/>
+</p>
 
-<br/>
+<h2 align="center">
+Hi 👋 I'm <span style="color:#7C3AED;">Payal Priyadarshini</span>
+</h2>
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=700&color=A855F7&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+Intelligent+AI+Systems;RAG+Pipelines+%7C+LLMs+%7C+NLP;Turning+Raw+Data+into+Decisions;Open+to+AI%2FML+Engineer+Roles;IndiGo+Crisis+2025+Live+Case+Study;Nykaa+Annual+Report+RAG+Chatbot" alt="Typing SVG"/>
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&center=true&vCenter=true&width=750&color=8B5CF6&lines=Building+AI+Products+that+Solve+Real+Problems;RAG+%7C+LLMs+%7C+NLP+Engineer;Data+Analytics+%7C+Machine+Learning;Always+Learning+Something+New+🚀"/>
+</p>
 
-<br/>
+<p align="center">
 
-<!-- STATUS BADGES -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🟢_Open_to_Work-AI_|_ML_|_NLP-22c55e?style=for-the-badge&labelColor=14532d"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍_Bangalore-India_🇮🇳-8B5CF6?style=for-the-badge&labelColor=4c1d95"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=payal3214&label=👁+Views&color=A855F7&style=for-the-badge"/>
-</div>
+<img src="https://img.shields.io/badge/Open%20to%20Work-22C55E?style=for-the-badge&logo=googlemessages&logoColor=white"/>
 
-<br/>
+<img src="https://img.shields.io/badge/AI%20%7C%20ML%20%7C%20NLP-2563EB?style=for-the-badge"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://img.shields.io/badge/Bangalore-India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<img src="https://komarev.com/ghpvc/?username=Payal3214&style=for-the-badge&color=7C3AED"/>
+
+</p>
+
+<p align="center">
+
+<a href="mailto:payal32140@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Payal3214">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
 
 ---
 
