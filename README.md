@@ -180,22 +180,10 @@ Interactive case study of India's largest aviation disruption — **1.62M strand
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payal3214&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=payal3214&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="175"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=payal3214&layout=donut&theme=tokyonight&hide_border=true&langs_count=6" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payal3214&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" height="175"/>
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=payal3214&theme=tokyonight&hide_border=true&mode=weekly" width="68%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=payal3214&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
----
 
 ## 📈 Contribution Activity
 
