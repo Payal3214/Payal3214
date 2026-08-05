@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&height=70&lines=Hi+👋+I'm+Payal+Priyadarshini" alt="Payal Priyadarshini"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=35&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&height=70&lines=Hi,+I'm+Payal+Priyadarshini" alt="Payal Priyadarshini"/>
 </h1>
 
 <h3 align="center">✦ AI Engineer | RAG & NLP Developer | Data Analyst ✦</h3>
