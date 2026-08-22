@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,20:2563EB,55:7C3AED,100:EC4899&text=Payal%20Priyadarshini&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Product%20%26%20Data%20Analyst%20%7C%20Turning%20Data%20into%20Decisions"/>
-</p>
 
 
 <p align="center">
