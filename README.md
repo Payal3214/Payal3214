@@ -8,41 +8,41 @@
 </p>
 
 ## 🧠 About Me
-
-```python
 class PayalPriyadarshini:
-
     def __init__(self):
         self.name        = "Payal Priyadarshini"
-        self.role        = "AI Engineer 🤖  |  Fresher & Ready to Build"
+        self.role        = "Product & Data Analyst 📊  |  Turning data into decisions"
         self.location    = "Bangalore, India 🇮🇳"
         self.email       = "payal32140@gmail.com"
+        self.portfolio   = "payal3214.github.io/APM-Portfolio"
+
+    @property
+    def what_i_do(self):
+        return [
+            "🔍 Break down user & business problems using data (SQL, Python, Power BI)",
+            "📈 Turn messy datasets into product decisions — not just dashboards",
+            "🧩 Case studies on user research, funnel analysis & prioritization (RICE)",
+        ]
 
     @property
     def skills(self):
         return {
-            "🤖 AI / NLP"  : ["RAG Pipelines", "LLM Fine-tuning", "NLP", "Prompt Engineering"],
-            "🧪 ML"        : ["Scikit-Learn", "TensorFlow", "PyTorch", "HuggingFace"],
-            "📊 Data"      : ["Pandas", "Seaborn", "Plotly", "SQL", "ChromaDB"],
-            "☁️  Cloud"    : ["AWS", "LangChain", "Vector Databases"],
-            "🌐 Web"       : ["Django", "REST APIs"],
+            "📊 Analysis"   : ["SQL", "Pandas", "Power BI", "Seaborn", "Plotly"],
+            "🧪 ML / AI"    : ["Scikit-Learn", "LangChain", "RAG Pipelines", "HuggingFace"],
+            "🎯 Product"    : ["Figma", "Notion", "RICE Prioritization", "User Interviews"],
+            "☁️  Tools"     : ["AWS", "Vector Databases", "REST APIs"],
         }
 
     @property
     def currently(self):
-        return "Building AI apps with LangChain + LLMs + Vector DBs 🚀"
+        return "Applying data + product thinking to real case studies — check my portfolio 👆"
 
     @property
-    def fun_fact(self):
-        return "My debugging improves 200% after talking to my own AI assistant 🤖"
+    def looking_for(self):
+        return "Associate Product Manager / Product Analyst / Data Analyst roles 🎯"
 
 me = PayalPriyadarshini()
 print(f"Hey! I'm {me.name} — {me.currently}")
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
----
 
 ## 🚀 Featured Projects
 
