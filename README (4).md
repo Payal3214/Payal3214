@@ -188,17 +188,45 @@ I like taking a messy business question, digging through the data, finding the s
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=Payal3214&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
-alt="GitHub Trophies"
-width="100%"
-/>
+<table>
+<tr>
+<td align="center">
 
-</p>
+⭐<br/> <b>Open Source</b><br/> <sub>Building & sharing projects</sub>
+
+</td>
+
+<td align="center">
+
+🔥<br/> <b>Consistency</b><br/> <sub>Keeping the contribution graph moving</sub>
+
+</td>
+
+<td align="center">
+
+🤖<br/> <b>AI Builder</b><br/> <sub>RAG & LLM projects</sub>
+
+</td>
+
+<td align="center">
+
+📊<br/> <b>Data Driven</b><br/> <sub>Analytics & product thinking</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/Payal3214?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+
+</div>
 
 ---
 
