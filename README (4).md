@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Hi%20👋%2C%20I'm%20Payal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20Data%20into%20Decisions%20%7C%20Product%20%2B%20Data%20Analyst&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Product+Analyst+%7C+Data+Analyst;Chatbot+%2F+RAG+Developer;I+turn+messy+data+into+product+decisions;Bangalore%2C+India+📍" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Product+Analyst+%7C+Data+Analyst;Chatbot+%2F+RAG+Developer;I+turn+messy+data+into+product+decisions;Bangalore%2C+India+📍/>
 
 </div>
 
