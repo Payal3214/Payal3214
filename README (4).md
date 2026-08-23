@@ -232,28 +232,39 @@ I like taking a messy business question, digging through the data, finding the s
 
 ## 🚀 Let's Connect
 
-<p align="center">
 
-<a href="mailto:youremail@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://your-portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-</p>
-
-<br/>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" width="100%" alt="Footer"/>
 
 ### Thanks for stopping by — let's connect and build something data-driven! 🚀
 
+</div>---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" width="100%" alt="Footer"/>
+
+### 🚀 Thanks for stopping by!
+
+**Let's connect and build something data-driven.**
+
+<br/>
+
+<a href="mailto:youremail@example.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+<sub>Turning data → insights → decisions → 🚀</sub>
+
 </div>
+
