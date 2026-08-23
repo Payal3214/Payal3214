@@ -172,16 +172,24 @@ I like taking a messy business question, digging through the data, finding the s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Payal3214&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Payal3214&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+
+<a href="https://github.com/Payal3214">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Payal3214&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Payal's GitHub Stats"
+    width="48%"
+  />
+</a>
+
+<a href="https://github.com/Payal3214">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Payal3214&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Payal's Top Languages"
+    width="48%"
+  />
+</a>
+
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Payal3214&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="55%" alt="Top Languages"/>
-</p>
-
----
-
 
 
 
