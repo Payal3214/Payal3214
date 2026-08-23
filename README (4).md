@@ -230,25 +230,33 @@ I like taking a messy business question, digging through the data, finding the s
 
 ---
 
-## 🚀 Let's Connect
+---
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" width="100%" alt="Footer"/>
-
-### Thanks for stopping by — let's connect and build something data-driven! 🚀
-
-</div>---
+## 💭 A Little Thought
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer" width="100%" alt="Footer"/>
+<a href="https://github.com/PiyushSuthar/github-readme-quotes">
 
-### 🚀 Thanks for stopping by!
+<img
+src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"
+alt="Random developer quote"
+width="80%"
+/>
 
-**Let's connect and build something data-driven.**
+</a>
 
-<br/>
+<br/><br/>
+
+<i>One idea. One experiment. One better decision. 🚀</i>
+
+</div>
+
+---
+
+## 🚀 Let's Connect
+
+<div align="center">
 
 <a href="mailto:youremail@example.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -262,9 +270,20 @@ I like taking a messy business question, digging through the data, finding the s
 <img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
-<br/><br/>
-
-<sub>Turning data → insights → decisions → 🚀</sub>
-
 </div>
 
+<br/>
+
+<div align="center">
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer"
+width="100%"
+alt="Footer"
+/>
+
+### Thanks for stopping by — let's build something data-driven! 🚀
+
+<sub>Data → Insights → Decisions → Impact</sub>
+
+</div>
