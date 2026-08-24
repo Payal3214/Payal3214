@@ -364,24 +364,19 @@ A better decision is.**
 
 ### 📊 APM Portfolio
 
-**Product Management / Product Analytics portfolio** showcasing product thinking, analysis and case studies.
 
-**Focus**
 
-* Product analytics
-* User research
-* Metrics
-* Product strategy
-* Roadmap prioritization
 
-<a href="https://github.com/Payal3214/APM-Portfolio">
-<img src="https://img.shields.io/badge/View%20Project-00C9A7?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
-</a>
 
-</td>
 
-</tr>
-</table>
+
+
+
+
+
+
+
+
 
 ---
 
