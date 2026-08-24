@@ -362,12 +362,51 @@ A better decision is.**
 
 <td width="50%" valign="top">
 
-### 📊 APM Portfolio
 
 
 
 
+<td width="50%" valign="top">
 
+### 🛒 E-Commerce Funnel, Drop-Off & Retention Analysis
+
+**End-to-end product analytics case study** uncovering where customers drop, why they don't convert, and what operational factors influence retention.
+
+**🔍 Investigated**
+
+* 400K+ e-commerce orders
+* User journey & funnel drop-offs
+* Cart → purchase conversion
+* COD cancellation behavior
+* Delivery time & customer experience
+* 30-day retention patterns
+
+**💡 Key Findings**
+
+`45%` cart drop-off
+`14%` COD cancellation
+`46%` 30-day retention
+
+**🧠 Product Questions**
+
+> Where are users getting stuck?
+> What is stopping conversion?
+> Does delivery experience affect returns?
+> Where should the product team intervene?
+
+**🛠️ Python · Pandas · NumPy · Jupyter · Streamlit**
+
+<br/>
+
+<a href="https://github.com/Payal3214/End-to-End-Funnel-Drop-Off-Return-and-Retention-Analysis">
+<img src="https://img.shields.io/badge/📊%20Case%20Study-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Case Study"/>
+</a>
+
+<a href="https://end-to-end-funnel-drop-off-return-and-retention-analysis-wkpam.streamlit.app/">
+<img src="https://img.shields.io/badge/🚀%20Live%20Dashboard-00C9A7?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Dashboard"/>
+</a>
+
+</td>
 
 
 
