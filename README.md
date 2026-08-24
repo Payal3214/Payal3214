@@ -31,31 +31,141 @@
 
 ## 👩‍💻 About Me
 
+
+
+## 👩‍💻 About Me
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=800&lines=I+turn+messy+data+into+clear+product+decisions+%F0%9F%93%8A;I+turn+user+behavior+into+better+experiences+%F0%9F%94%8D;I+build+RAG+systems+that+actually+answer+questions+%F0%9F%A4%96;I+like+numbers%2C+experiments%2C+and+shipping+things+%F0%9F%9A%80" alt="What I do"/>
+### 🔍 I don't just look at the numbers. I ask **why.**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=850&height=55&lines=What+changed%3F+%E2%86%92+Why+did+it+change%3F+%E2%86%92+What+should+we+do%3F;SQL+%E2%86%92+Insight+%E2%86%92+Experiment+%E2%86%92+Product+Decision;I+turn+user+behavior+into+product+signals+%F0%9F%94%8D;I+build+RAG+systems+that+turn+documents+into+answers+%F0%9F%A4%96" alt="What I do"/>
 
 </div>
 
 <br/>
 
-> **Data tells me what happened. Product thinking helps me figure out what to do next.**
+> **I sit at the intersection of data, product, and AI — turning messy questions into decisions people can actually act on.**
 
-I'm a **Product & Data Analyst** who enjoys sitting right in the middle of **data, users, and product decisions**.
+I'm a **Product & Data Analyst** who likes being where the interesting questions live.
 
-I like taking a messy business question, digging through the data, finding the signal, and turning it into something a team can actually **build, measure, and improve**.
+Not just *“What happened?”*
+But **“Why did it happen?”**
+And more importantly — **“What should we do about it?”**
 
-### 🔎 What I'm good at
+I use **SQL, Python, analytics, experimentation, and product thinking** to find the signal hiding inside messy data. Then I turn that signal into something useful — a metric, an experiment, a product insight, or a decision.
 
-| 🧩 Product Thinking       | 📊 Data & Analytics    | 🤖 AI & RAG      |
-| :------------------------ | :--------------------- | :--------------- |
-| Funnel & journey analysis | SQL & Python           | RAG pipelines    |
-| A/B testing               | Statistical analysis   | Embeddings       |
-| Product metrics           | Dashboards & reporting | Vector search    |
-| User research             | Experimentation        | LLM applications |
-| PRDs & prioritization     | Business insights      | LangChain        |
+And when the problem involves hundreds of pages of documents instead of rows and columns, I like building **RAG + LLM systems** that make that information easier to search, understand, and use.
+
+---
+
+### 🧠 How I Think
+
+<div align="center">
+
+|  🕵️ **Investigate**  | 📊 **Understand** |   🧪 **Validate**   |        🚀 **Act**        |
+| :-------------------: | :---------------: | :-----------------: | :----------------------: |
+| Find the real problem |  Find the signal  | Test the hypothesis | Turn insight into action |
+|  Ask better questions |  Connect the dots |  Measure the impact |      Build & improve     |
+
+</div>
 
 <br/>
+
+### ⚡ My Sweet Spot
+
+```text
+Messy Business Question
+          ↓
+      🔎 Investigate
+          ↓
+      🐍 SQL + Python
+          ↓
+     📊 Find the Signal
+          ↓
+      🧠 Form a Hypothesis
+          ↓
+      🧪 Experiment
+          ↓
+   🚀 Product Decision
+          ↓
+       📈 Measure
+```
+
+---
+
+### 🧩 What I Bring to the Table
+
+**🧠 Product**
+
+`Funnels` · `User Journeys` · `Product Metrics` · `A/B Testing` · `User Research` · `PRDs` · `Prioritization`
+
+**📊 Data**
+
+`SQL` · `Python` · `Pandas` · `Statistics` · `Dashboards` · `Business Analysis` · `Experimentation`
+
+**🤖 AI / RAG**
+
+`RAG Pipelines` · `Embeddings` · `Vector Search` · `LLM Applications` · `LangChain` · `Document Intelligence`
+
+---
+
+<div align="center">
+
+### 💭 My rule of thumb
+
+**A dashboard is not the outcome.
+A better decision is.**
+
+<br/>
+
+`DATA` → `INSIGHT` → `EXPERIMENT` → `DECISION` → `IMPACT` 🚀
+
+</div>
+
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 🚀 Currently building
 
