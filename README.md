@@ -37,62 +37,166 @@
 
 <div align="center">
 
-### 🔍 I don't just look at the numbers. I ask **why.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=700&color=6C63FF&center=true&vCenter=true&width=850&height=55&lines=%F0%9F%94%8D+I+investigate+the+%22why%22+behind+the+numbers; %F0%9F%A7%A0+I+turn+data+into+product+decisions; %F0%9F%A4%96+I+build+RAG+systems+that+make+information+useful; %F0%9F%9A%80+I+like+turning+messy+problems+into+shippable+ideas" alt="Animated introduction"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=850&height=55&lines=What+changed%3F+%E2%86%92+Why+did+it+change%3F+%E2%86%92+What+should+we+do%3F;SQL+%E2%86%92+Insight+%E2%86%92+Experiment+%E2%86%92+Product+Decision;I+turn+user+behavior+into+product+signals+%F0%9F%94%8D;I+build+RAG+systems+that+turn+documents+into+answers+%F0%9F%A4%96" alt="What I do"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=false" width="75%"/>
 
 </div>
 
 <br/>
 
-> **I sit at the intersection of data, product, and AI — turning messy questions into decisions people can actually act on.**
+> **I don't just ask what happened. I ask why it happened — and what we should do next.**
 
-I'm a **Product & Data Analyst** who likes being where the interesting questions live.
+I'm a **Product & Data Analyst** who enjoys working at the intersection of **data, users, products, and AI**.
 
-Not just *“What happened?”*
-But **“Why did it happen?”**
-And more importantly — **“What should we do about it?”**
+I like messy problems.
 
-I use **SQL, Python, analytics, experimentation, and product thinking** to find the signal hiding inside messy data. Then I turn that signal into something useful — a metric, an experiment, a product insight, or a decision.
+The kind where the question starts as:
 
-And when the problem involves hundreds of pages of documents instead of rows and columns, I like building **RAG + LLM systems** that make that information easier to search, understand, and use.
+```text
+"Something feels wrong with this metric..."
+```
+
+and ends with:
+
+```text
+"Here's what changed → here's why → here's what we should test next."
+```
+
+My job is somewhere in between those two sentences. 🔎
 
 ---
 
-### 🧠 How I Think
+### ⚡ How I Work
 
 <div align="center">
 
-|  🕵️ **Investigate**  | 📊 **Understand** |   🧪 **Validate**   |        🚀 **Act**        |
-| :-------------------: | :---------------: | :-----------------: | :----------------------: |
-| Find the real problem |  Find the signal  | Test the hypothesis | Turn insight into action |
-|  Ask better questions |  Connect the dots |  Measure the impact |      Build & improve     |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1800&pause=500&color=00C9A7&center=true&vCenter=true&width=900&height=50&lines=%F0%9F%94%8E+ASK+%E2%86%92+%F0%9F%90%8D+ANALYZE+%E2%86%92+%F0%9F%A7%A0+UNDERSTAND+%E2%86%92+%F0%9F%A7%AA+TEST+%E2%86%92+%F0%9F%9A%80+DECIDE;SQL+%E2%86%92+Signal+%E2%86%92+Hypothesis+%E2%86%92+Experiment+%E2%86%92+Impact;Data+is+the+evidence.+Product+thinking+is+the+direction." alt="Animated workflow"/>
 
 </div>
 
 <br/>
 
-### ⚡ My Sweet Spot
+<div align="center">
 
-```text
-Messy Business Question
-          ↓
-      🔎 Investigate
-          ↓
-      🐍 SQL + Python
-          ↓
-     📊 Find the Signal
-          ↓
-      🧠 Form a Hypothesis
-          ↓
-      🧪 Experiment
-          ↓
-   🚀 Product Decision
-          ↓
-       📈 Measure
-```
+|  🔎 **Investigate**  | 📊 **Understand** | 🧪 **Experiment** |   🚀 **Decide**   |
+| :------------------: | :---------------: | :---------------: | :---------------: |
+| Ask better questions |  Find the signal  |  Test assumptions | Ship what matters |
+|    Find the "why"    |  Connect the dots |   Measure impact  |  Learn & iterate  |
+
+</div>
 
 ---
+
+### 🧩 My Playground
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=600&color=FF6B6B&center=true&vCenter=true&width=800&height=45&lines=%F0%9F%A7%A0+Product+Analytics+%7C+Funnels+%7C+Metrics+%7C+Experiments;%F0%9F%90%8D+SQL+%7C+Python+%7C+Pandas+%7C+Statistics;%F0%9F%A4%96+RAG+%7C+Embeddings+%7C+Vector+Search+%7C+LLMs;%F0%9F%8E%AF+User+Problems+%7C+Business+Questions+%7C+Product+Decisions" alt="Animated skills"/>
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🧠 PRODUCT
+
+Funnels
+User Journeys
+Product Metrics
+A/B Testing
+User Research
+PRDs & Prioritization
+
+</td>
+
+<td align="center" width="33%">
+
+### 📊 DATA
+
+SQL
+Python
+Pandas
+Statistics
+Dashboards
+Business Analysis
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI / RAG
+
+RAG Pipelines
+Embeddings
+Vector Search
+LLM Applications
+LangChain
+Document Intelligence
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🖥️ Currently thinking...
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2400&pause=900&color=6C63FF&center=true&vCenter=true&width=850&height=45&lines=%3E+How+can+analytics+lead+to+better+product+decisions%3F;%3E+How+can+RAG+make+business+information+easier+to+use%3F;%3E+How+do+we+measure+whether+an+idea+actually+worked%3F;%3E+How+can+we+turn+insight+into+something+people+can+ship%3F" alt="Currently thinking animation"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔄 My default loop
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=70&text=DATA%20%E2%86%92%20INSIGHT%20%E2%86%92%20EXPERIMENT%20%E2%86%92%20DECISION%20%E2%86%92%20IMPACT&fontSize=20&fontColor=6C63FF&animation=fadeIn&fontAlignY=55" width="100%" alt="Data to impact"/>
+
+<br/>
+
+**Because a dashboard isn't the outcome.
+A better decision is.** 🎯
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&height=35&lines=%E2%9C%93+Curious+mindset;%E2%9C%93+Data-driven+decisions;%E2%9C%93+Product-first+thinking;%E2%9C%93+Always+building+%F0%9F%9A%80" alt="Animated mindset"/>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 🧩 What I Bring to the Table
 
