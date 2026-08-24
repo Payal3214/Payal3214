@@ -338,6 +338,15 @@ A better decision is.**
 
 ## 📌 Pinned / Featured Work
 
+
+<div align="center">
+
+**Two projects. Two different problems. One goal — turning information into better decisions.**
+
+</div>
+
+<br/>
+
 <table>
 <tr>
 
@@ -345,26 +354,31 @@ A better decision is.**
 
 ### 🤖 Nykaa Annual Report RAG Chatbot
 
-**RAG-powered document intelligence application** for asking questions about the Nykaa annual report.
+**AI-powered document intelligence system** that turns a lengthy annual report into an interactive question-answering experience.
 
-**Focus**
+Instead of manually searching through hundreds of pages, users can ask questions and retrieve relevant information using a **Retrieval-Augmented Generation (RAG)** pipeline.
 
-* Retrieval-Augmented Generation
-* LLM pipelines
-* Embeddings & vector search
-* Document Q&A
+**🔍 Built With**
+
+* 📄 Document processing & chunking
+* 🧠 Embeddings & semantic search
+* 🔎 Vector retrieval
+* 🤖 LLM-powered answers
+* 💬 Context-aware document Q&A
+
+**💡 Product Problem**
+
+> How can we make complex business documents easier to explore, search, and understand?
+
+**🛠️ Python · LangChain · Embeddings · Vector Search · LLMs**
+
+<br/>
 
 <a href="https://github.com/Payal3214/Nykaa-Annual-Report-RAG-Chatbot">
-<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
+<img src="https://img.shields.io/badge/🤖%20View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Nykaa RAG project"/>
 </a>
 
 </td>
-
-<td width="50%" valign="top">
-
-
-
-
 
 <td width="50%" valign="top">
 
@@ -383,9 +397,7 @@ A better decision is.**
 
 **💡 Key Findings**
 
-`45%` cart drop-off
-`14%` COD cancellation
-`46%` 30-day retention
+`45%` cart drop-off · `14%` COD cancellation · `46%` 30-day retention
 
 **🧠 Product Questions**
 
@@ -399,22 +411,25 @@ A better decision is.**
 <br/>
 
 <a href="https://github.com/Payal3214/End-to-End-Funnel-Drop-Off-Return-and-Retention-Analysis">
-<img src="https://img.shields.io/badge/📊%20Case%20Study-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View Case Study"/>
+<img src="https://img.shields.io/badge/📊%20Case%20Study-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="View funnel case study"/>
 </a>
 
 <a href="https://end-to-end-funnel-drop-off-return-and-retention-analysis-wkpam.streamlit.app/">
-<img src="https://img.shields.io/badge/🚀%20Live%20Dashboard-00C9A7?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Dashboard"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Dashboard-00C9A7?style=for-the-badge&logo=streamlit&logoColor=white" alt="Open live dashboard"/>
 </a>
 
 </td>
 
+</tr>
+</table>
 
+<br/>
 
+<div align="center">
 
+`🤖 AI / RAG`    `📊 Product Analytics`    `🐍 Python`    `🧠 Problem Solving`
 
-
-
-
+</div>
 
 
 ---
