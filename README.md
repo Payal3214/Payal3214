@@ -29,8 +29,6 @@
 
 ---
 
-## 👩‍💻 About Me
-
 
 
 ## 👩‍💻 About Me
